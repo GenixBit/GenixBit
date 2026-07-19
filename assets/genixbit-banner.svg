@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">GenixBit Labs Private Limited</title>
+  <desc id="desc">Web, App and AI product engineering for ambitious businesses.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.48" stop-color="#0B2342"/>
+      <stop offset="1" stop-color="#102F52"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36D1DC"/>
+      <stop offset="0.55" stop-color="#4F8CFF"/>
+      <stop offset="1" stop-color="#8A5CFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#3FD3FF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#3FD3FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1035" cy="82" r="205" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="1100" cy="320" r="170" fill="#805DFF" opacity="0.10" filter="url(#soft)"/>
+
+  <g opacity="0.20" fill="none" stroke="#8DDFFF" stroke-width="1.2">
+    <path d="M760 55H910L975 120H1138"/>
+    <path d="M812 110H900L970 180H1120"/>
+    <path d="M742 257H925L992 190H1175"/>
+    <path d="M830 315H1010L1070 255H1185"/>
+    <circle cx="910" cy="55" r="5" fill="#8DDFFF"/>
+    <circle cx="970" cy="180" r="5" fill="#8DDFFF"/>
+    <circle cx="992" cy="190" r="5" fill="#8DDFFF"/>
+    <circle cx="1070" cy="255" r="5" fill="#8DDFFF"/>
+  </g>
+
+  <g transform="translate(72 72)">
+    <rect width="88" height="88" rx="24" fill="url(#accent)"/>
+    <path d="M26 26h36v10H38v12h20v10H38v14H26z" fill="#fff" opacity="0.97"/>
+    <path d="M56 36h10v36H56z" fill="#fff" opacity="0.97"/>
+  </g>
+
+  <text x="188" y="113" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.2">GenixBit Labs</text>
+  <text x="190" y="153" fill="#9EC8EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="600" letter-spacing="3.4">PRIVATE LIMITED</text>
+
+  <rect x="72" y="198" width="470" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="245" fill="#EAF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">Web. App. AI.</text>
+  <text x="72" y="280" fill="#AFC9DE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="400">Three pillars. One growth engine.</text>
+
+  <g transform="translate(72 310)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect width="128" height="30" rx="15" fill="#FFFFFF" opacity="0.08"/>
+    <text x="64" y="20" text-anchor="middle" fill="#DDF5FF">PRODUCT ENGINEERING</text>
+    <rect x="140" width="102" height="30" rx="15" fill="#FFFFFF" opacity="0.08"/>
+    <text x="191" y="20" text-anchor="middle" fill="#DDF5FF">AI SYSTEMS</text>
+    <rect x="254" width="105" height="30" rx="15" fill="#FFFFFF" opacity="0.08"/>
+    <text x="306.5" y="20" text-anchor="middle" fill="#DDF5FF">CLOUD SCALE</text>
+  </g>
+</svg>
