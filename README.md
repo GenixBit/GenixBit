@@ -1,17 +1,25 @@
 <div align="center">
 
-<img src="https://github.com/GenixBit/GenixBit/raw/main/assets/genixbit-banner.svg" alt="GenixBit Labs — Web, App and AI product engineering" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/193334115?v=4" alt="GenixBit Labs logo" width="132" />
+
+# GenixBit Labs Private Limited
+
+### Web • App • AI — Three Pillars. One Growth Engine.
+
+**AI-first product engineering for startups, growing businesses, and enterprises.**
+
+We design, build, launch, and scale secure digital products across AI, SaaS, web, mobile, cloud, data, e-commerce, and automation.
 
 <br />
 
-[![Website](https://img.shields.io/badge/Global_Website-genixbit.com-0B7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.com/)
-[![UK](https://img.shields.io/badge/United_Kingdom-genixbit.co.uk-174EA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.co.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_GenixBit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/genixbit/)
-[![Email](https://img.shields.io/badge/Email-info%40genixbit.com-27364A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@genixbit.com)
+[![Website](https://img.shields.io/badge/WEBSITE-genixbit.com-0B7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.com/)
+[![UK Website](https://img.shields.io/badge/UK_WEBSITE-genixbit.co.uk-174EA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Follow_GenixBit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/genixbit/)
+[![Email](https://img.shields.io/badge/EMAIL-info%40genixbit.com-27364A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@genixbit.com)
 
-### Product engineering for ambitious businesses
+<br />
 
-**We turn ideas, workflows, and complex requirements into secure, scalable digital products.**
+<sub><strong>Global delivery</strong> • <strong>UK presence</strong> • <strong>India engineering</strong> • <strong>Open-source innovation</strong></sub>
 
 </div>
 
