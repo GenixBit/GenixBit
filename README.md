@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/193334115?v=4" alt="GenixBit logo" width="150" />
+<img src="https://github.com/GenixBit/GenixBit/raw/main/assets/genixbit-banner.svg" alt="GenixBit Labs — Web, App and AI product engineering" width="100%" />
 
-# GenixBit Labs Private Limited
+<br />
 
-### Web. App. AI — Three Pillars. One Growth Engine.
+[![Website](https://img.shields.io/badge/Global_Website-genixbit.com-0B7EA4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.com/)
+[![UK](https://img.shields.io/badge/United_Kingdom-genixbit.co.uk-174EA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_GenixBit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/genixbit/)
+[![Email](https://img.shields.io/badge/Email-info%40genixbit.com-27364A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@genixbit.com)
 
-We design and engineer secure, scalable digital products for startups, growing businesses, and enterprises.
+### Product engineering for ambitious businesses
 
-[![Website](https://img.shields.io/badge/Website-genixbit.com-0A7EA4?style=for-the-badge)](https://www.genixbit.com/)
-[![UK Website](https://img.shields.io/badge/UK-genixbit.co.uk-0A7EA4?style=for-the-badge)](https://www.genixbit.co.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GenixBit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/genixbit/)
-[![Email](https://img.shields.io/badge/Email-info%40genixbit.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@genixbit.com)
+**We turn ideas, workflows, and complex requirements into secure, scalable digital products.**
 
 </div>
 
@@ -19,23 +19,55 @@ We design and engineer secure, scalable digital products for startups, growing b
 
 ## About GenixBit
 
-**GenixBit Labs Private Limited** is a product engineering and digital transformation company building practical software across artificial intelligence, SaaS, web, mobile, cloud, data, e-commerce, and business automation.
+**GenixBit Labs Private Limited** is a product engineering and digital transformation company working across artificial intelligence, SaaS, web, mobile, cloud, data, e-commerce, and business automation.
 
-We support the complete product lifecycle—from discovery, UX and architecture to development, deployment, optimisation, and ongoing support.
+We support the complete product lifecycle—from discovery, experience design, and architecture to development, deployment, optimisation, and long-term support.
 
-> Our client applications, production systems, credentials, proprietary datasets, and confidential implementation details remain private. This GitHub profile highlights selected open-source work, public documentation, and approved product information.
+> **Public by design, private by responsibility.** This profile highlights selected open-source work, public documentation, and approved product information. Client applications, production systems, credentials, proprietary datasets, and confidential implementation details remain private.
 
-## What We Build
+---
 
-| Area | Capabilities |
-|---|---|
-| **Artificial Intelligence** | AI applications, copilots, autonomous agents, RAG systems, LLM integrations, private AI workflows, and intelligent automation |
-| **SaaS & Enterprise Software** | CRM systems, marketplaces, ERP platforms, dashboards, portals, subscription products, and internal business tools |
-| **Web Engineering** | High-performance websites and applications using React, Next.js, Node.js, Python, PHP, and modern APIs |
-| **Mobile Applications** | Cross-platform and mobile-first products using Flutter, React Native, Firebase, and native integrations |
-| **Cloud & DevOps** | AWS and Google Cloud architecture, CI/CD, containers, observability, databases, security, and deployment automation |
-| **E-commerce** | Shopify, WooCommerce, Magento, custom storefronts, integrations, tracking, performance, and conversion optimisation |
-| **Growth Engineering** | Technical SEO, Core Web Vitals, analytics, accessibility, landing pages, CRO, and workflow automation |
+## What We Deliver
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI & Automation
+
+- AI applications and copilots
+- Autonomous and multi-agent systems
+- RAG and knowledge platforms
+- LLM integrations and private AI
+- Intelligent business workflows
+
+</td>
+<td width="33%" valign="top">
+
+### Digital Products
+
+- SaaS and subscription platforms
+- CRM, ERP, portals, and marketplaces
+- Web and mobile applications
+- E-commerce and custom storefronts
+- Internal tools and dashboards
+
+</td>
+<td width="33%" valign="top">
+
+### Cloud & Growth
+
+- AWS and Google Cloud architecture
+- APIs, databases, CI/CD, and observability
+- Performance and security engineering
+- Technical SEO and analytics
+- Conversion and workflow optimisation
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Featured Products & Initiatives
 
@@ -43,111 +75,169 @@ We support the complete product lifecycle—from discovery, UX and architecture 
 <tr>
 <td width="50%" valign="top">
 
-### Genius AI
+### 🧠 [Genius AI](https://genius.genixbit.com/)
 
-An AI platform focused on making powerful models and intelligent workflows accessible for practical business and productivity use cases.
+An AI platform designed to make powerful models and intelligent workflows more accessible for practical business and productivity use cases.
 
-[Visit Genius AI →](https://genius.genixbit.com/)
+**Focus:** AI productivity · intelligent workflows · practical business use
+
+[Explore Genius AI →](https://genius.genixbit.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### Space Intelligence
+### 🛰️ [Space Intelligence](https://spaceintelligence.genixbit.com/)
 
 A decision-support platform exploring space utilisation, energy optimisation, ESG readiness, scenario planning, and reporting.
 
-[Visit Space Intelligence →](https://spaceintelligence.genixbit.com/)
+**Focus:** decision intelligence · scenarios · operational insight
+
+[Explore Space Intelligence →](https://spaceintelligence.genixbit.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### GenixBit Academy
+### 🎓 [GenixBit Academy](https://academy.genixbit.com/)
 
-A practical learning platform focused on artificial intelligence, software development, emerging technology, and professional upskilling.
+A practical learning platform focused on artificial intelligence, software development, emerging technologies, and professional upskilling.
 
-[Visit GenixBit Academy →](https://academy.genixbit.com/)
+**Focus:** applied learning · AI literacy · technical skills
+
+[Explore GenixBit Academy →](https://academy.genixbit.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### IndicLLM — Bharat-V1
+### 🇮🇳 IndicLLM — Bharat-V1
 
-An Indian-language AI initiative focused on improving access, language coverage, and useful intelligence for Indic users and organisations.
+An Indian-language AI initiative focused on improving language access and useful intelligence for Indic users and organisations.
 
-Development source and datasets are currently maintained privately while safety, licensing, documentation, and public-release readiness are evaluated.
+**Focus:** Indic languages · accessibility · responsible AI
+
+Development source and datasets remain private while safety, licensing, documentation, and release readiness are evaluated.
 
 </td>
 </tr>
 </table>
 
-## Open-Source Work
+---
+
+## Open-Source Spotlight
+
+<table>
+<tr>
+<td width="68%" valign="top">
 
 ### [GenixBit Agents](https://github.com/GenixBit/agency-agents)
 
-A growing public collection of specialised AI agents for engineering, product, design, marketing, security, operations, testing, customer success, and business workflows.
+A growing collection of specialised AI agents for engineering, product, design, marketing, security, operations, testing, customer success, and business workflows.
 
-The project supports modern AI development tools and provides structured agent identities, workflows, deliverables, rules, and success criteria.
+Each agent is structured around a clear identity, operating rules, workflows, deliverables, and success criteria. The project supports multiple modern AI development tools and is designed for practical reuse.
 
-### [NemoClaw](https://github.com/GenixBit/NemoClaw)
+[![Stars](https://img.shields.io/github/stars/GenixBit/agency-agents?style=flat-square&logo=github&label=Stars)](https://github.com/GenixBit/agency-agents/stargazers)
+[![Forks](https://img.shields.io/github/forks/GenixBit/agency-agents?style=flat-square&logo=github&label=Forks)](https://github.com/GenixBit/agency-agents/forks)
+[![License](https://img.shields.io/github/license/GenixBit/agency-agents?style=flat-square&label=License)](https://github.com/GenixBit/agency-agents/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/GenixBit/agency-agents?style=flat-square&label=Updated)](https://github.com/GenixBit/agency-agents/commits/main)
 
-An exploration of running OpenClaw more securely inside NVIDIA OpenShell with managed inference.
+**[View repository →](https://github.com/GenixBit/agency-agents)**
 
-## Technology We Work With
+</td>
+<td width="32%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
+### Public Engineering
 
-## How We Work
+Our public work is selected to be:
 
-1. **Discover** — understand the business objective, users, constraints, and success criteria.
-2. **Design** — define product scope, UX, architecture, integrations, delivery plan, and risks.
-3. **Build** — develop in focused milestones with testing, documentation, and transparent communication.
-4. **Launch** — deploy securely with monitoring, analytics, performance checks, and release support.
-5. **Improve** — optimise the product using evidence, user feedback, operational data, and business priorities.
+- Useful beyond one client
+- Safe to publish
+- Clearly documented
+- Free from private data
+- Honest about limitations
+- Maintained with responsible disclosure
 
-## Engineering Principles
+</td>
+</tr>
+</table>
 
-- **Security by design** — privacy, access control, secrets, dependencies, and data handling are reviewed before release.
-- **Production-minded delivery** — architecture, testing, deployment, observability, documentation, and maintainability matter.
-- **Responsible AI** — assumptions and limitations should be clear, with human review where appropriate.
-- **Client confidentiality** — customer intellectual property and private repositories remain protected.
-- **No invented proof** — we do not publish fabricated metrics, fake customers, unsupported guarantees, or misleading claims.
-- **Useful openness** — generic tools and knowledge may be shared when publication is secure, lawful, and beneficial.
+---
 
-## Work With Us
+## Technology Stack
 
-We collaborate with startups, founders, agencies, product teams, and enterprises that need dependable technology execution.
+<div align="center">
 
-- **Global:** [www.genixbit.com](https://www.genixbit.com/)
-- **United Kingdom:** [www.genixbit.co.uk](https://www.genixbit.co.uk/)
-- **General enquiries:** [info@genixbit.com](mailto:info@genixbit.com)
-- **Business enquiries:** [sales@genixbit.com](mailto:sales@genixbit.com)
-- **LinkedIn:** [GenixBit](https://www.linkedin.com/company/genixbit/)
-- **X:** [@genixbit](https://x.com/genixbit)
-- **Instagram:** [@genixbit](https://www.instagram.com/genixbit/)
+### Application Engineering
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+
+### Data, Cloud & Delivery
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+### Commerce & Content
+
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" />
+
+</div>
+
+---
+
+## From Idea to Scale
+
+<table>
+<tr>
+<td align="center" width="20%"><strong>01<br/>Discover</strong><br/><sub>Goals, users, constraints</sub></td>
+<td align="center" width="20%"><strong>02<br/>Design</strong><br/><sub>UX, scope, architecture</sub></td>
+<td align="center" width="20%"><strong>03<br/>Build</strong><br/><sub>Milestones, code, testing</sub></td>
+<td align="center" width="20%"><strong>04<br/>Launch</strong><br/><sub>Cloud, monitoring, release</sub></td>
+<td align="center" width="20%"><strong>05<br/>Improve</strong><br/><sub>Evidence, feedback, growth</sub></td>
+</tr>
+</table>
+
+---
+
+## Engineering Standards
+
+| Principle | What it means in practice |
+|---|---|
+| **Security by design** | Access control, secrets, dependencies, privacy, and data handling are considered before release. |
+| **Production-minded delivery** | Testing, deployment, monitoring, documentation, performance, and maintainability are part of the product. |
+| **Responsible AI** | Assumptions and limitations are communicated clearly, with human review where appropriate. |
+| **Client confidentiality** | Customer intellectual property, private repositories, credentials, and data remain protected. |
+| **Evidence over hype** | We do not publish fabricated metrics, fake customers, unsupported guarantees, or misleading claims. |
+| **Useful openness** | Generic tools and knowledge may be shared when publication is secure, lawful, and genuinely beneficial. |
 
 ---
 
 <div align="center">
 
+## Build With GenixBit
+
+We collaborate with founders, startups, agencies, product teams, and enterprises that need dependable technology execution.
+
+[![Start a Conversation](https://img.shields.io/badge/START_A_CONVERSATION-info%40genixbit.com-0B7EA4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:info@genixbit.com)
+[![Visit Global Website](https://img.shields.io/badge/VISIT-genixbit.com-102F52?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.com/)
+[![Visit UK Website](https://img.shields.io/badge/UK-genixbit.co.uk-174EA6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.genixbit.co.uk/)
+
+<br />
+
 **Building useful technology with clarity, responsibility, and long-term thinking.**
 
-© 2025–2026 GenixBit Labs Private Limited
+<sub>© 2025–2026 GenixBit Labs Private Limited</sub>
 
 </div>
